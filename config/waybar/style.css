@@ -1,0 +1,13 @@
+* {
+    font-family: monospace;
+    font-size: 12px;
+}
+
+window#waybar {
+    background: #0d0d0d;
+    color: #ffffff;
+}
+
+#workspaces button {
+    padding: 0 6px;
+}

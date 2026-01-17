@@ -7,7 +7,9 @@ wl-clipboard
 grim
 slurp
 network-manager-gnome
-gnome-keyring
 polkit-gnome
-xdg-desktop-portal
-xdg-desktop-portal-wlr
+git
+curl
+neovim
+tmux
+htop

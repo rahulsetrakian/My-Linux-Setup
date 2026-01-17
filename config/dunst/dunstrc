@@ -1,0 +1,5 @@
+[global]
+width = 300
+origin = top-right
+timeout = 3
+font = monospace 10

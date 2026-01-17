@@ -1,0 +1,10 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 24,
+  "modules-left": ["hyprland/workspaces"],
+  "modules-right": ["network", "cpu", "memory", "clock"],
+  "clock": {
+    "format": "{:%H:%M}"
+  }
+}
