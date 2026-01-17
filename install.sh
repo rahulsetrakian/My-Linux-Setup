@@ -2,7 +2,7 @@
 set -e
 
 echo "[+] Updating system"
-sudo apt update && sudo apt full-upgrade -y
+sudo apt update && sudo apt upgrade -y
 
 echo "[+] Installing packages"
 sudo apt install -y $(cat packages.txt)
