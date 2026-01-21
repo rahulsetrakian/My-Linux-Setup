@@ -1,10 +1,14 @@
-# Hyprland Kali Setup
+# My Personal Kali Setup 
 
-Minimal, CTF-focused Hyprland configuration for Kali Linux.
+Minimal, KDE Plasma configuration for Kali Linux.
 
 ## Install
+
 ```bash
-git clone https://github.com/YOURUSER/hyprland-kali
-cd hyprland-kali
+git clone https://github.com/rahulsetrakian/My-Linux-Setup
+cd My-Linux-Setup
 chmod +x install.sh
-./install.sh
+./install.sh 
+
+
+

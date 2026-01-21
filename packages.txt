@@ -1,13 +1,11 @@
 hyprland
-waybar
 kitty
-rofi-wayland
-dunst
+rofi
 wl-clipboard
 grim
 slurp
 network-manager-gnome
-polkit-gnome
+lxpolkit
 git
 curl
 neovim
