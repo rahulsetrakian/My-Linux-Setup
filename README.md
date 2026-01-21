@@ -11,14 +11,18 @@ chmod +x install.sh
 ./install.sh 
 ```
 
+## Requirements
+- Fresh Kali Linux installation
+- Internet connection
+- sudo access
+
 ## Features
 - Minimal and Fast
 - Single Script
 
 ## Configuration
-- Vim Configuration
-- OhMyZsh
+- Custom Vim Configuration
+- Oh My Zsh with predefined plugins and theme
 
 ## License
 MIT License
-
