@@ -20,5 +20,5 @@ chmod +x install.sh
 - OhMyZsh
 
 ## License
-MIT Lincense
+MIT License
 
